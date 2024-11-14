@@ -14,7 +14,7 @@ This is a simple Snake Game implemented using React. The game features a 20x20 g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/hammadaiy/Snake-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -42,3 +42,8 @@ This game was completely created with the help of AI (ChatGPT).
 ## License
 
 This project is licensed under the MIT License.
+
+## UI 👇
+
+![Screenshot 2024-11-14 223147](https://github.com/user-attachments/assets/19f0282b-c988-4a54-aa7f-5342e5bbb85c)
+

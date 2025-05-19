@@ -1,4 +1,4 @@
-# Snake Game (<a href="https://snake-game-red-sigma.vercel.app/" target="_blank">Live Link <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="new tab icon" style="width: 16px; height: 16px;"></a>)
+# Snake Game (<a href="https://slikosnek.vercel.app/" target="_blank">Live Link <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="new tab icon" style="width: 16px; height: 16px;"></a>)
 
 This is a simple Snake Game implemented using React. The game features a 20x20 grid where the snake moves to eat food and grow in length. The game ends if the snake collides with the walls or itself.
 
